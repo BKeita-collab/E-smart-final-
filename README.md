@@ -1,3 +1,4 @@
 # E-smart-final Project 
-Some description 
+Some description ...
+
 For efficient electricity usage
