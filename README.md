@@ -1,2 +1,3 @@
-# E-smart-final-
+# E-smart-final Project 
+Some description 
 For efficient electricity usage
